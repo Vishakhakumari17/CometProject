@@ -1,0 +1,47 @@
+#l1{
+    color: red;
+    font-size: 2rem;
+}
+#l2{
+    color: blue;
+    font-size: 16px;
+}
+#l3{
+    color: yellow;
+    font-size: 30px;
+}
+#l4{
+    color: pink;
+    font-size: medium;
+}
+#l5{
+    color: blueviolet;
+    font-size: 600;
+}
+
+a{
+    background-color: yellow;
+}
+
+p{
+    background-color: black;
+}
+
+h1{
+    font:4em sans-serif;
+}
+
+
+table{
+    width: 100%;
+    border-radius: collapse;
+}
+th, td{
+    border: 1px solid #000;
+    padding: 6px;
+    text-align: left;
+}
+
+th{
+    background-color: aqua;
+}
